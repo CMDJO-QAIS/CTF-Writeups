@@ -22,5 +22,6 @@ now we have the canary , then it's an easy RET2WIN challenge
 
 this is the final payload 
 
-![image](https://github.com/CMDJO-QAIS/CTF-Writeups/assets/160439920/8c582f12-509a-4893-8e6d-1969b64c5a83)
+![image](https://github.com/CMDJO-QAIS/CTF-Writeups/assets/160439920/43a0d1f7-49ce-40d3-8dad-45e8648e8dd2)
+
 
