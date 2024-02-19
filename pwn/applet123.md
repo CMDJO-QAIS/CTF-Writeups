@@ -24,4 +24,9 @@ this is the final payload
 
 ![image](https://github.com/CMDJO-QAIS/CTF-Writeups/assets/160439920/43a0d1f7-49ce-40d3-8dad-45e8648e8dd2)
 
+or we can use pwn.flat to construct our paylaoad
+
+![image](https://github.com/CMDJO-QAIS/CTF-Writeups/assets/160439920/af1720e0-fffe-438e-a9bc-07974ab161d8)
+
+
 
